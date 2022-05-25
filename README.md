@@ -25,7 +25,7 @@ I'm Zhou Shengyi from Beijing University of Technology. My major is Computer Sci
               <img src="https://github-readme-stats.vercel.app/api?username=aimengyisheng&count_private=true" width="900px" >  
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimengyisheng&layout=compact" width="900px" >
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimengyisheng&langs_count=8" width="900px" >
             </td>
         </tr>
     </table>
