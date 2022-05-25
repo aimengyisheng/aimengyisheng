@@ -16,12 +16,13 @@ I'm Zhou Shengyi from Beijing University of Technology. My major is Computer Sci
         </tr>
     </table>
 </html>
+
 # Github Stats
 <html>
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
-              <img src="https://github-readme-stats.vercel.app/api?username=aimengyisheng&show_icons=true&theme=tokyonight" width="900px" >  
+              <img src="https://github-readme-stats.vercel.app/api?username=aimengyisheng&count_private=true" width="900px" >  
             </td>
             <td>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimengyisheng&layout=compact" width="900px" >
